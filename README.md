@@ -6,4 +6,4 @@ I query statcast for homeruns from the start of the season to today, divide the 
 
 Here's a sample output (on 5/31/25), using 5 sectors:
 
-![output](example_ouput/hrs_through_may.png)
+![output](example_output/hrs_through_may.png)
