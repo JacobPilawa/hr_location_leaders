@@ -4,6 +4,8 @@ While watching the [Dodgers smoke the Yankees](https://baseballsavant.mlb.com/ga
 
 I query statcast for homeruns from the start of the season to today, divide the outfield into a number of sectors, and find the HR leaders in each of these sectors. Extremely simple (and not guaranteed to be pretty), but sort of interesting to see which hitters are hitting where this season. It sort of makes sense when you see who is at the top of each sector (from the games I've seen this season), but always fun to see it spelled out in data!
 
+It could be interesting to further divide the field itself into sections as Todd did in his basketball tweet, seeing which hitters hit to which locations most often. I also wouldn't be surprised if this has already been done!
+
 Here's a sample output (on 5/31/25), using 5 sectors:
 
 ![output](example_output/hrs_through_may.png)
